@@ -20,3 +20,7 @@ In the project directory.
 
 For online use visit:  https://messageservice-deployment.herokuapp.com/ 
 To see/use the application running online.
+Instructions:
+Sign up. You can create multiple users, but emails have to be unique.
+Then create, edit and delete messages. Logout.
+Sign in as other users to see that you can only modify your own messages, and only see what others have written.
